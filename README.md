@@ -34,6 +34,22 @@
 
 ---
 
+## 当前项目 · Current Work
+
+| 项目 | 简介 | 技术栈 |
+| :--- | :--- | :--- |
+| [gorangetask](https://github.com/Tidehyc/gorangetask) | 可嵌入 Go 服务的 MySQL 事务型持久化任务队列 | `Go` `MySQL` |
+
+---
+
+## 开源贡献 · Open Source
+
+[uber/kraken](https://github.com/uber/kraken)（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：聚焦后端配置解析的错误处理，让原本被丢弃的底层错误变得可追溯，并为相关模块补齐回归测试，贡献已合并入主仓库。
+
+*Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: improved backend config error handling with traceable error wrapping and regression tests, merged upstream.*
+
+---
+
 ## 早期项目 · Earlier Work
 
 <details>
