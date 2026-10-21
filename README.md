@@ -44,7 +44,7 @@
 
 ## 开源贡献 · Open Source
 
-[uber/kraken](https://github.com/uber/kraken)（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：聚焦后端配置解析的错误处理，让原本被丢弃的底层错误变得可追溯，并为相关模块补齐回归测试，贡献已合并入主仓库。
+[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：聚焦后端配置解析的错误处理，让原本被丢弃的底层错误变得可追溯，并为相关模块补齐回归测试，贡献已合并入主仓库。
 
 *Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: improved backend config error handling with traceable error wrapping and regression tests, merged upstream.*
 
