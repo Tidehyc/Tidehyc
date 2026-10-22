@@ -44,9 +44,9 @@
 
 ## 开源贡献 · Open Source
 
-[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：聚焦后端配置解析的错误处理，让原本被丢弃的底层错误变得可追溯，并为相关模块补齐回归测试，贡献已合并入主仓库。
+[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：参与后端可观测性与稳定性方面的优化，相关贡献已合并入主仓库。
 
-*Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: improved backend config error handling with traceable error wrapping and regression tests, merged upstream.*
+*Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: contributed to backend observability and stability improvements, merged upstream.*
 
 ---
 
@@ -61,6 +61,7 @@
 | :--- | :--- | :--- |
 | [fileagent-server](https://github.com/Tidehyc/fileagent-server) | AI 智能文件管理服务：本地大模型理解文件语义，MySQL 持久化 | `C++20` `Drogon` `epoll` `MySQL` `llama.cpp` |
 | [cpp-connection-thread-pool](https://github.com/Tidehyc/cpp-connection-thread-pool) | MySQL 数据库连接池与通用线程池实现 | `C++` `MySQL` |
+| [cpp-ai-chat-server](https://github.com/Tidehyc/cpp-ai-chat-server) | AI 聊天服务器：多轮 AI 对话、好友私聊与群聊房间，支持离线消息推送 | `C++17` `Boost.Asio` `WebSocket` `SQLite` |
 
 </details>
 
