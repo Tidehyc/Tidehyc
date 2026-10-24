@@ -16,16 +16,19 @@
 
 ## 关于我 · About
 
-从 C++ 转向 Go，关注分布式存储与高并发后端。
+在读学生，热爱 Go，正在通过项目探索后端开发的各个方向。
 
-*Moved from C++ to Go, focused on distributed storage and high-throughput backends.*
+*A student who loves Go, exploring different directions in backend development through projects.*
 
 ---
 
 ## 技术栈 · Tech Stack
 
 <p>
-<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="Gin" src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
