@@ -2,9 +2,9 @@
 
 # Tide
 
-厦门大学 · Go 后端与分布式系统
+厦门大学 · Go 后端
 
-*Xiamen University · Go backend & distributed systems*
+*Xiamen University · Go backend*
 
 <a href="mailto:tidehyc3234@163.com"><img alt="Email" src="https://img.shields.io/badge/tidehyc3234@163.com-1F2937?style=flat-square&logo=maildotru&logoColor=white"></a>
 <img alt="Xiamen, China" src="https://img.shields.io/badge/Xiamen%2C_China-1F2937?style=flat-square&logo=googlemaps&logoColor=white">
@@ -48,7 +48,7 @@
 
 ## 开源贡献 · Open Source
 
-[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：参与后端可观测性与稳定性方面的优化，相关贡献已合并入主仓库。
+[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：参与后端可观测性与稳定性方面的优化，相关贡献已合并入主仓库。
 
 *Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: contributed to backend observability and stability improvements, merged upstream.*
 
