@@ -48,9 +48,9 @@
 
 ## 开源贡献 · Open Source
 
-[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：参与后端可观测性与稳定性方面的优化，相关贡献已合并入主仓库。
+[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：参与后端可观测性、稳定性与测试方面的优化，已有 3 个 PR 合并入主仓库。
 
-*Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: contributed to backend observability and stability improvements, merged upstream.*
+*Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: contributed to backend observability, stability, and testing improvements, with 3 PRs merged upstream.*
 
 ---
 
