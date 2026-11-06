@@ -52,6 +52,10 @@
 
 *Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: contributed to backend observability, stability, and testing improvements, with 3 PRs merged upstream.*
 
+[go-task/task](https://github.com/go-task/task) <a href="https://github.com/go-task/task/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/go-task/task?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Go 的任务运行器）贡献者：参与离线模式下远端 include 缓存处理与测试方面的优化，已有 1 个 PR 合并入主仓库。
+
+*Contributor to [go-task/task](https://github.com/go-task/task), the Go task runner: contributed to offline-mode remote include cache handling and testing improvements, with 1 PR merged upstream.*
+
 ---
 
 ## 早期项目 · Earlier Work
