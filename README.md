@@ -50,17 +50,17 @@
 
 ## 开源贡献 · Open Source
 
-[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：参与后端可观测性、稳定性与测试方面的优化，已有 3 个 PR 合并入主仓库。
+[uber/kraken](https://github.com/uber/kraken) <a href="https://github.com/uber/kraken/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/uber/kraken?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Uber 的分布式 P2P Docker 镜像分发系统）贡献者：参与后端可观测性、稳定性与测试方面的优化。
 
-*Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: contributed to backend observability, stability, and testing improvements, with 3 PRs merged upstream.*
+*Contributor to [uber/kraken](https://github.com/uber/kraken), Uber's distributed P2P Docker registry: contributed to backend observability, stability, and testing improvements.*
 
-[go-task/task](https://github.com/go-task/task) <a href="https://github.com/go-task/task/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/go-task/task?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Go 的任务运行器）贡献者：参与离线模式下远端 include 缓存处理与测试方面的优化，已有 1 个 PR 合并入主仓库。
+[go-task/task](https://github.com/go-task/task) <a href="https://github.com/go-task/task/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/go-task/task?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Go 的任务运行器）贡献者：参与离线模式下远端 include 缓存处理与测试方面的优化。
 
-*Contributor to [go-task/task](https://github.com/go-task/task), the Go task runner: contributed to offline-mode remote include cache handling and testing improvements, with 1 PR merged upstream.*
+*Contributor to [go-task/task](https://github.com/go-task/task), the Go task runner: contributed to offline-mode remote include cache handling and testing improvements.*
 
-[redis/go-redis](https://github.com/redis/go-redis) <a href="https://github.com/redis/go-redis/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/redis/go-redis?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Go 的 Redis 客户端）贡献者：参与连接池重新认证时序处理与测试方面的优化，已有 1 个 PR 合并入主仓库。
+[redis/go-redis](https://github.com/redis/go-redis) <a href="https://github.com/redis/go-redis/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/redis/go-redis?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Go 的 Redis 客户端）贡献者：参与连接池重新认证时序处理与测试方面的优化。
 
-*Contributor to [redis/go-redis](https://github.com/redis/go-redis), the Redis client for Go: contributed to connection pool re-authentication timing handling and testing improvements, with 1 PR merged upstream.*
+*Contributor to [redis/go-redis](https://github.com/redis/go-redis), the Redis client for Go: contributed to connection pool re-authentication timing handling and testing improvements.*
 
 ---
 
