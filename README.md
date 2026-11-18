@@ -58,6 +58,10 @@
 
 *Contributor to [go-task/task](https://github.com/go-task/task), the Go task runner: contributed to offline-mode remote include cache handling and testing improvements, with 1 PR merged upstream.*
 
+[redis/go-redis](https://github.com/redis/go-redis) <a href="https://github.com/redis/go-redis/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/redis/go-redis?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（Go 的 Redis 客户端）贡献者：参与连接池重新认证时序处理与测试方面的优化，已有 1 个 PR 合并入主仓库。
+
+*Contributor to [redis/go-redis](https://github.com/redis/go-redis), the Redis client for Go: contributed to connection pool re-authentication timing handling and testing improvements, with 1 PR merged upstream.*
+
 ---
 
 ## 早期项目 · Earlier Work
