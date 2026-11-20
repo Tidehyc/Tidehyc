@@ -9,7 +9,7 @@
 <a href="mailto:tidehyc3234@163.com"><img alt="Email" src="https://img.shields.io/badge/tidehyc3234@163.com-1F2937?style=flat-square&logo=maildotru&logoColor=white"></a>
 <img alt="Xiamen, China" src="https://img.shields.io/badge/Xiamen%2C_China-1F2937?style=flat-square&logo=googlemaps&logoColor=white">
 <a href="https://github.com/Tidehyc"><img alt="GitHub" src="https://img.shields.io/badge/Tidehyc-1F2937?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://tidehyc.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/tidehyc.github.io-1F2937?style=flat-square&logo=githubpages&logoColor=white"></a>
+<a href="https://tidehyc.github.io/"><img alt="Personal Site" src="https://img.shields.io/badge/tidehyc.github.io-EA580C?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 
 </div>
 
