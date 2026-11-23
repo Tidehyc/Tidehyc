@@ -46,7 +46,7 @@
 
 | 项目 | 简介 | 技术栈 |
 | :--- | :--- | :--- |
-| [orangecode](https://github.com/Tidehyc/orangecode) | 面向多任务并发与多轮对话的开源 Agent Harness | `Python` `TypeScript` |
+| orangecode | 面向多任务并发与多轮对话的开源 Agent Harness，正在用 Rust 重写 | `Rust` |
 | [gorangetask](https://github.com/Tidehyc/gorangetask) | 可嵌入 Go 服务的 MySQL 事务型持久化任务队列 | `Go` `MySQL` |
 | [gorangefeed](https://github.com/Tidehyc/gorangefeed) | 短视频 Feed 流后端：发布→分发→消费→互动→通知全链路，垂直切片架构，单体 API + 独立 Worker | `Go` `Gin` `MySQL` `Redis` `RabbitMQ` |
 
