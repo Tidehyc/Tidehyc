@@ -66,6 +66,10 @@
 
 *Contributor to [redis/go-redis](https://github.com/redis/go-redis), the Redis client for Go: contributed to connection pool re-authentication timing handling and testing improvements.*
 
+[dolthub/dolt](https://github.com/dolthub/dolt) <a href="https://github.com/dolthub/dolt/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&labelColor=1F2937&color=1F2937&logo=github"></a>（版本化 SQL 数据库）贡献者：为其 SQL 引擎 go-mysql-server 修复 ST_GeomFromGeoJSON 在 SRID 为 NULL 时的崩溃（关闭 #12600），并补充回归测试。
+
+*Contributor to [dolthub/dolt](https://github.com/dolthub/dolt), the version-controlled SQL database: fixed a panic in its SQL engine (go-mysql-server) — ST_GeomFromGeoJSON on a NULL SRID, closing #12600 — with regression tests.*
+
 ---
 
 ## 早期项目 · Earlier Work
